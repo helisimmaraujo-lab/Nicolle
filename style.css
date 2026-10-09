@@ -593,9 +593,8 @@ li{
 @media (max-width: 768px) {
 
     /* NAVBAR */
+    .logo {gap: 0;}
     .navbar { padding: 16px 20px; }
-    .logo img { width: 70px; }
-    .logo span { font-size: 28px; }
     .menu { gap: 16px; }
     .menu li:not(:last-child) { display: none; }
 
@@ -606,10 +605,12 @@ li{
 
     .logo img {
         width: 245px;
+        margin-bottom: -8px;
     }
 
     .logo span {
         font-size: 32px;
+        line-height: 1;
     }
 
     /* HERO */
