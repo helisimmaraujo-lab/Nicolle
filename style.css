@@ -606,7 +606,7 @@ li{
     .logo img {
         width: 245px;
         margin-bottom: -38px;
-        left: -10px;
+        margin-left: -30px;
     }
 
     .logo span {
