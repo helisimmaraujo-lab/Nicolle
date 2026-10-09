@@ -15,7 +15,7 @@ span{
 
 .hero h3{
  color: #D3AF37;
- margin-top: 160px;
+ margin-top: 200px;
  font-family: 'Lora', serif;
 }
 
@@ -79,7 +79,7 @@ li{
 }
 
 .logo img {
-    width: 140px;
+    width: 200px;
 }
 
 .logo span {
@@ -120,12 +120,12 @@ li{
 
 .hero h1 span{
     font-style: italic;
-    color: #c9a44c;
+    color: #b8860b;
 }
 
 .hero h1 {
     font-family: 'Lora', serif;
-    font-style: italic;
+    font-style: normal;
     font-size: 75px;
     line-height: 1.05;
     margin: 20px 0;
